@@ -14,4 +14,4 @@ Il vous faut avoir télécharger Node.js, puis:
 npm start
 ```
 
-Si le jeu ne se lance pas, il vous suffit d'aller dans votre navigateur à l'adresse: *http://localhost:{port de lancement de l'application}*
+Si le jeu ne se lance pas, il vous suffit d'aller dans votre navigateur à l'adresse: *http://localhost:{port}*
